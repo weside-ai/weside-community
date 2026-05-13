@@ -20,10 +20,12 @@ You can meet your companion on:
 - **Web app:** [weside.ai](https://weside.ai)
 - **iOS:** App Store — *weside*
 - **Android:** Google Play — *weside*
-- **Telegram:** via the [weside.ai](https://weside.ai) link
-- **CLI:** [weside-cli](https://github.com/weside-ai/weside-cli) (`brew install weside-ai/tap/weside`)
+- **Telegram**
+- **WhatsApp**
+- **CLI:** [weside-cli](https://github.com/weside-ai/weside-cli)
+- **Claude Code:** [claude-code-plugin](https://github.com/weside-ai/claude-code-plugin)
 
-WhatsApp, Microsoft Teams, and a Claude Code integration are on the roadmap.
+Microsoft Teams is on the roadmap.
 
 ---
 
