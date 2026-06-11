@@ -1,0 +1,12 @@
+# yaml-language-server: $schema=https://coderabbit.ai/integrations/schema.v2.json
+#
+# CodeRabbit is currently DISABLED across the weside-ai org (2026-06-09).
+# Review gate runs on Greptile + claude-review only.
+#
+# Re-enable: delete this file, then re-add the `coderabbit` required status
+# check in branch protection.
+reviews:
+  auto_review:
+    enabled: false
+chat:
+  art: false
