@@ -18,3 +18,10 @@ When a new GitHub issue is opened (`issues.opened` event):
    - Language: detect and match the language of the issue author's text
    - Content: brief acknowledgment that the issue has been received
    - Last line: the Jira issue key only (e.g. `WA-1068`), no other text on that line
+
+## Security
+
+This is a public repository. Never commit secrets or credentials. If a reporter pastes a token,
+API key, or other credential into an issue body, never repeat it back — not in the confirmation
+comment, not in the Jira ticket description. Quote only the surrounding context and note that the
+credential was omitted.
